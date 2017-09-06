@@ -1,0 +1,6 @@
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\bin\Debug\Book.exe.config
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\bin\Debug\Book.exe
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\bin\Debug\Book.pdb
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\obj\Debug\Book.exe
+C:\Users\Tebogo Khanye\Documents\CourseWare\Second Semester\ASSIGNMENTS\Assignment1\Book\Book\obj\Debug\Book.pdb
