@@ -8,7 +8,7 @@ namespace Book
 {
     public class BookItem: BookCollection
     {
-        //
+        //overriding of methods inherited from the BookCollection abstract class. 
         public override IEnumerator<BookCollection> CreateIterator()
         {
             return null;
