@@ -30,7 +30,7 @@ namespace Book
 
             foreach (BookCollection CurrentBook in _BookCollection)
             {
-                CurrentBook.PrintBook();
+                CurrentBook.PrintBook()
             }
                 
         }
